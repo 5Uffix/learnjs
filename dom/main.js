@@ -1,6 +1,6 @@
 let elH1 = document.createElement('h1');
 let body = document.querySelector('body');
-let name = "Sanjar";
+let name = "Sufisho";
 let age = "19"
 setTimeout(() => {
     elH1.innerText = "message from setTimeout";
